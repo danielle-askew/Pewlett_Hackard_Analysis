@@ -22,8 +22,7 @@ On the plus side only two managers are retiring. This will at least minimize the
 With the oncoming loss of a big chunk of the company's employees, the company is considering a mentorship program. 
 We found that there are 1549 employees eligible for the mentorship program. 
 
-Summary:
-
+## Summary:
 The results show that there are 300,024 total employees with 90,398 of those employees retiring in the next year. From this we can deduce that almost a third of Pewlett Hackard employees are going to be retiring, a percentage of 30.1%. This ultimately means there are not enough employees to mentor the next generation of employees. It works out to only 2 mentors for every 90 new employees coming into Pewlett Hackard. The company may need to expand the eligibility requirements for mentors to improve mentors to employee ratio.
 
 ## ERD schema
